@@ -76,10 +76,10 @@ On success, repositories will be stored in github_repos.db (SQLite).
 📈 **4. Launch the Streamlit Dashboard**
 
   **Run:**
-  streamlit run dashboard.py
+      streamlit run dashboard.py
 
 This will automatically open:
-http://localhost:8501/
+      http://localhost:8501/
 
 The dashboard lets you:
   1. Filter repos by stars, languages, topics, and recent activity (based on pushed_at)
