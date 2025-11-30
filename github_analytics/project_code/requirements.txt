@@ -1,0 +1,6 @@
+plotly==6.3.1
+requests==2.32.5
+config==0.5.1
+dotenv==0.9.9
+pandas==2.3.3
+streamlit==1.51.0
